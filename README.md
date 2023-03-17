@@ -1,2 +1,3 @@
-Classe de Mapeamento 
+Classe de Mapeamento
+
 DLL para acesso ao MySQL
