@@ -16,7 +16,7 @@ using System.Data;
 using System.Configuration;
  
 
-namespace FATEC
+namespace SITE
 {
     /// <summary>
     /// Summary description for Mapped
